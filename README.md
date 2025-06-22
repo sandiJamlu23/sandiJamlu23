@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Groot
+Hi, I’m Groot
 
 <!---
 sandiJamlu23/sandiJamlu23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
